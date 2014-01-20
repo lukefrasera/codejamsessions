@@ -1,5 +1,5 @@
 #CODE JAMMING README
 
 ##CONTRIBUTORS
-*Joshua Infiesto
-*Luke Fraser
+**Joshua Infiesto
+**Luke Fraser
